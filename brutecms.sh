@@ -1,6 +1,6 @@
 #!/bin/bash
 # BruteCMS v1.0.4
-# Github: https://github.com/thelinuxchoice/brutecms
+# Github: https://github.com/Marisa999t/brutecms
 # Coded by: thelinuxchoice (Don't change noob, read the LICENSE!)
 # Instagram: @thelinuxchoice
 trap 'printf "\n";store;exit 1' 2
